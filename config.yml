@@ -5,6 +5,7 @@ description: >-
 template:
   repo: oci-api-serverless-template
   name: oci-api-serverless
+  description: OCI API Serverless
 before:
   - type: createIssue
     title: Welcome!
